@@ -3,4 +3,4 @@ configuration:
 server:
   port: 8000
 message:
-  greeting: Testing kar raha hoon
+  greeting: HJello world!
