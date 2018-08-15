@@ -1,6 +1,6 @@
 configuration:  
-  projectName: configclient
+  projectName: SpringCloudConfig
 server:
   port: 8000
 message:
-  greeting: Done Finally*******!
+  greeting: Done Done*******!
