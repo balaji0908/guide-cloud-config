@@ -3,4 +3,4 @@ configuration:
 server:
   port: 8000
 message:
-  greeting: HJello world!
+  greeting: Cloud COnfig chal gaya!
